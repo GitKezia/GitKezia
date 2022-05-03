@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitKezia
-- 👀 I’m interested in , programação. Mais especificamente, pretendo fazer um curso de Desenvolvedor Full Stack
-- 🌱 I’m currently learn, por um Bootcamp disponibilizado pela DIO.Me, vídeos no youtube, cursos na Udemy e ebooks
-- 💞️ I’m looking to collaborate on , uma empresa chamada CI&T, achei bem interessante, claro que o processo pode ser difícil, e talve será preciso fazer atalhos para chegar até lá, mas o importante é não desistir e sempre continuar estudand e me especializando na área.
+- 👀 I’m interested in , programação. Mais especificamente, sou aluna da EBAC  no curso de Desenvolvedor Full Stack Java
+- 🌱 I’m currently learn, pelo curso da EBAC, bootcamps da DIO.ME, cursos da Udemy e ebooks gratuitos
+- 💞️ I’m looking to collaborate on , em projetos de grandes empresas e,  me divertir no process, pois até agora fico imersa  nas linhas de código e me divirto bastante estilizando minhas páginas com CSS. 
 - 📫 How to reach me, através do meu email @keziavictoria21@gmail.com
 
 <!---
