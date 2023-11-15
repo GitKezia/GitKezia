@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GitKezia
 - 👀 I’m interested in , desenvolvimento web. Sou estudante de Desenvolvimento Full Stack Java
 - 🌱 I’m currently learn, pelo curso da EBAC, bootcamps da DIO.ME, cursos da Udemy e ebooks gratuitos
-- 💞️ I’m looking to collaborate on , em projetos de grandes empresas e me aprender  cada dia mais no processo.
+- 💞️ I’m looking to collaborate on , em projetos de grandes empresas e me desafiar  cada dia mais no processo.
 - 📫 How to reach me, através do meu email @keziavictoria21@gmail.com
 
 <!---
