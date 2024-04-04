@@ -44,7 +44,7 @@ Visto isso estou sempre em busca de desafios e oportunidades para aprender, cres
   <img align="center" alt="Kezia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kezia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kezia-Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
-  <img align="right" alt="Kezia-SCSS" height="250" width="250" src="https://www.icegif.com/wp-content/uploads/icegif-3530.gif">
+
 
 
 </div>
