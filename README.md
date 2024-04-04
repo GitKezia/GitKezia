@@ -1,7 +1,7 @@
 ## Hello, world! Meu nome é <strong>Kezia</strong>! 👋😊
 <img src="https://us.123rf.com/450wm/teerawatcr/teerawatcr2306/teerawatcr230600020/206222460-beautiful-young-woman-using-laptop-at-home.jpg?ver=6" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
-  Sou goiana. Uai!🤠E sou <strong>Desenvolvedora Full Stack Java em constante aprendizado.</strong>.
+  Sou goiana. Uai!🤠E sou <strong>Desenvolvedora Full Stack Java em constante aprendizado.</strong>
 
 Graduando em Análise e Desenvolvimento de Sistemas, e atualmente estou empenhada em aprimorar minhas habilidades como desenvolvedora e animadora 3D. No primeiro dia do ano recebi minha certificação do curso de Desenvolvimento Full Stack Java pela Ebac, no entanto ainda me considero como uma aspirante, pois são tantas coisas para aprender que parece que você nunca está pronto.
 
