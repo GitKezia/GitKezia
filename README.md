@@ -1,5 +1,5 @@
-## Hello, world! Meu nome é <strong>Kezia</strong>! 👋😊
-<img src="https://us.123rf.com/450wm/teerawatcr/teerawatcr2306/teerawatcr230600020/206222460-beautiful-young-woman-using-laptop-at-home.jpg?ver=6" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+meu+nome+é+Kezia+Victoria;+Uma+Desenvolvedora+Web+em+constante+aprendizado+!+👋😊:%29)](https://git.io/typing-svg) 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
   Sou goiana. Uai!🤠E sou <strong>Desenvolvedora Full Stack Java em constante aprendizado.</strong>
 
