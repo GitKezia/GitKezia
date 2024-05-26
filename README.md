@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+meu+nome+é+Kezia+Victoria;+Uma+Desenvolvedora+Web+em+constante+aprendizado+!+👋😊:%29)](https://git.io/typing-svg) 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
-  Sou goiana. Uai!🤠E sou <strong>Desenvolvedora Full Stack Java em constante aprendizado.</strong>
+  Uma goiana que adora pequi e passar um tempo na roça!🤠Também <strong>Desenvolvedora Full Stack Java em constante aprendizado.</strong>
 
 Graduando em Análise e Desenvolvimento de Sistemas, e atualmente estou empenhada em aprimorar minhas habilidades como desenvolvedora e animadora 3D. No primeiro dia do ano recebi minha certificação do curso de Desenvolvimento Full Stack Java pela Ebac, no entanto ainda me considero como uma aspirante, pois são tantas coisas para aprender que parece que você nunca está pronto.
 
