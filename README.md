@@ -3,7 +3,7 @@
 <p align="left"> 
   Uma goiana se aventurando no mundo da programação!🤠Também <strong>Desenvolvedora Full Stack Java em constante aprendizado.</strong>
 
-Graduando em Análise e Desenvolvimento de Sistemas, e atualmente estou empenhada em aprimorar minhas habilidades como desenvolvedora e animadora 3D. No primeiro dia do ano de 2024 recebi minha certificação do curso de Desenvolvimento Full Stack Java pela Ebac, no entanto ainda me considero como uma aspirante, pois são tantas coisas para aprender que parece que você nunca está pronto.
+Formada em Análise e Desenvolvimento de Sistemas, e atualmente estou empenhada em aprimorar minhas habilidades como desenvolvedora e animadora 3D. No primeiro dia do ano de 2024 recebi minha certificação do curso de Desenvolvimento Full Stack Java pela Ebac, no entanto ainda me considero como uma aspirante, pois são tantas coisas para aprender que parece que você nunca está pronto.
 
 Visto isso estou sempre em busca de desafios e oportunidades para aprender, crescer e ter capacidade de ajudar outras pessoas a crescerem. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas, criar conexões e explorar maneiras de tornar o mundo da tecnologia um lugar melhor.
 
